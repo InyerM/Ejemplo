@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Anybody:wght@200;400;500;600;700&display=swap');
+
+*{
+    font-family: 'Anybody', cursive;
+}
+
+.card {
+    background-color: #24292f;
+    border-radius: 7px;
+    color: #cdd7e4;
+    margin: 30px 20px 0px 20px;
+}
+
+.card img{
+    margin: 10px 0;
+    border-radius: 7px;
+}
+
+.card .info{ 
+    justify-content: center;
+}
+
+.card .info h1{
+    margin: 10px 0 25px 25px;
+    font-size: 25px;
+}
+
+.card .info p{
+    margin-left: 25px;
+    line-height: 15px;
+}
